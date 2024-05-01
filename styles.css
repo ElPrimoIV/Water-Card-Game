@@ -1,13 +1,14 @@
 body {
     margin: 1em;
-    background: MediumSeaGreen;
+    background-color: MediumSeaGreen;
     font-family: "Flamenco";
     text-align: center;
     margin: 0 0 10px 0;
 }
 
 body {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxcP18sAB6Lvq_qhpYLKQi7ha_1T2ol121Q&usqp=CAU");
+    background-image: linear-gradient(mediumSeagreen, blue);
+    height: 730px;
 }
 
 h1 {
